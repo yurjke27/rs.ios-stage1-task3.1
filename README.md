@@ -3,6 +3,8 @@ Task 3 состоит из трех подзадач, которые вам не
 Все задачи находятся в корне проекта в папке Exercises и идут в порядке усложения 
 1-вая задача самоя простая, 3-ая наиболее сложная в рамках Task3.
 
+### В 3-тем задании использовать xib/storyboard нельзя. Изменять или трогать AppDelegate и Info.plist нельзя.
+
 Структура папки Exercises представленна ниже
 ![Image of Exercises](https://github.com/rolling-scopes-school/rs.ios-stage1-task3.1/blob/master/images/Exercises.png)
 
